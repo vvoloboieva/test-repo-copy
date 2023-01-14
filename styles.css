@@ -1,0 +1,14 @@
+h1 {
+  font-size: 48px;
+  color: rgb(78, 1, 1);
+  width: 100%;
+  background-color: bisque;
+  text-decoration: underline;
+  font-weight: 900;
+}
+
+body {
+  width: 1280px;
+  background-color: rgb(245, 241, 235);
+  color: darkblue;
+}
